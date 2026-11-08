@@ -1,1 +1,14 @@
-# placeholder
+Meeting notes — TokenLens sprint planning, Nov 6, 2026
+Attendees: Sarah Chen, Mike Patel, Priya Nair
+
+We reviewed the pricing bug from last week and agreed the warning fix is the priority.
+The demo video still needs editing, but no one volunteered for it yet.
+Sarah will send the updated budget spreadsheet by Friday.
+Mike needs to finish the extracteval test suite by 2026-11-12.
+Priya will draft the release notes for v0.2.0 next Monday.
+TODO: Sarah to confirm the PyPI publisher setup with the team.
+Action: Mike to review the pull request for the token counter by March 5.
+We also discussed the roadmap for December and agreed to keep the scope small.
+The next sprint review is scheduled for next Tuesday.
+Priya asked whether we should add a changelog entry for the warning fix.
+We agreed the changelog can wait until the release is cut.
