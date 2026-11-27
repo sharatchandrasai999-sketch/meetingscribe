@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 
 from meetingscribe.cli import main
-from meetingscribe.extract import extract_action_items, find_due, find_owner, summarize
+from meetingscribe.extract import extract_action_items, summarize
 
 SAMPLE = Path(__file__).parents[1] / "examples" / "sample_meeting.txt"
 
